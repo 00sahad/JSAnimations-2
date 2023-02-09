@@ -1,2 +1,7 @@
 # JSAnimations-2
-just studying basic animations
+ 
+ Hai, iam interested in designs so i started to learn animations . these days i just did some simple animations like hovering time animations 
+ 
+ today , i did a scroll animations
+
+visit https://00sahad.github.io/JSAnimations-2/
